@@ -31,5 +31,12 @@
 
 ---
 
+## 📚 Data Dictionary
+
+Data Dictionary của dự án được sử dụng để mô tả chi tiết cấu trúc dữ liệu, các bảng, thuộc tính và mối quan hệ giữa các thành phần trong cơ sở dữ liệu.
+
+🔗 **Data Dictionary:** [Xem Data Dictionary trên Google Sheets](https://docs.google.com/spreadsheets/d/1_N3rno8zyN385w31F2gbN1yuj94RGDa8ZT1R9VZnC_Y/edit?usp=sharing)
+
+
 > **Industrial University of Ho Chi Minh City (IUH)**  
 > *Group Project – DAAI_N2.4*
